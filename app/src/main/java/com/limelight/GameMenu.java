@@ -211,8 +211,11 @@ public class GameMenu {
             options.add(new MenuOption(getString(R.string.game_menu_send_keys_ctrl_alt_shift_f1),
                     () -> sendKeys(new short[]{KeyboardTranslator.VK_LCONTROL,KeyboardTranslator.VK_LMENU, KeyboardTranslator.VK_LSHIFT, KeyboardTranslator.VK_F1})));
 
-            options.add(new MenuOption(getString(R.string.game_menu_send_keys_ctrl_alt_shift_f12),
-                    () -> sendKeys(new short[]{KeyboardTranslator.VK_LCONTROL,KeyboardTranslator.VK_LMENU, KeyboardTranslator.VK_LSHIFT, KeyboardTranslator.VK_F12})));
+            options.add(new MenuOption(getString(R.string.game_menu_send_keys_ctrl_alt_shift_f2),
+                    () -> sendKeys(new short[]{KeyboardTranslator.VK_LCONTROL,KeyboardTranslator.VK_LMENU, KeyboardTranslator.VK_LSHIFT, KeyboardTranslator.VK_F2})));
+
+            options.add(new MenuOption(getString(R.string.game_menu_send_keys_ctrl_alt_shift_f3),
+                    () -> sendKeys(new short[]{KeyboardTranslator.VK_LCONTROL,KeyboardTranslator.VK_LMENU, KeyboardTranslator.VK_LSHIFT, KeyboardTranslator.VK_F3})));
 
             options.add(new MenuOption(getString(R.string.game_menu_send_keys_alt_b),
                     () -> sendKeys(new short[]{KeyboardTranslator.VK_LWIN, KeyboardTranslator.VK_LMENU, KeyboardTranslator.VK_B})));

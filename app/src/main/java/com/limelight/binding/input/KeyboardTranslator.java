@@ -34,7 +34,8 @@ public class KeyboardTranslator implements InputManager.InputDeviceListener {
     public static final int VK_EQUALS = 61;
     public static final int VK_ESCAPE = 27;
     public static final int VK_F1 = 112;
-    public static final int VK_F12 = 123;
+    public static final int VK_F2 = 113;
+    public static final int VK_F3 = 114;
 
     public static final int VK_END = 35;
     public static final int VK_HOME = 36;
