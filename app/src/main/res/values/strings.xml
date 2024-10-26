@@ -336,8 +336,9 @@
     <string name="game_menu_send_keys_alt_enter">Send Alt + Enter</string>
     <string name="game_menu_send_keys_win_shift_left">Send Win + shift + left (切换桌面)</string>
     <string name="game_menu_send_keys_ctrl_alt_shift_q">Send Ctrl+Alt+Shift+Q (PC退出串流)</string>
-    <string name="game_menu_send_keys_ctrl_alt_shift_f1">Send Ctrl+Alt+Shift+F1 (切换显示器)</string>
-    <string name="game_menu_send_keys_ctrl_alt_shift_f12">Send Ctrl+Alt+Shift+F12 (切换显示器)</string>
+    <string name="game_menu_send_keys_ctrl_alt_shift_f1">Send Ctrl+Alt+Shift+F1 (切换显示器1)</string>
+    <string name="game_menu_send_keys_ctrl_alt_shift_f2">Send Ctrl+Alt+Shift+F2 (切换显示器2)</string>
+    <string name="game_menu_send_keys_ctrl_alt_shift_f3">Send Ctrl+Alt+Shift+F3 (切换显示器3)</string>
 
 
 
